@@ -1,6 +1,6 @@
 - hosts: all
   become: yes
-  user: ubuntu
+  user: root
   gather_facts: no
   pre_tasks:
   - name: 'atualizando repo'
