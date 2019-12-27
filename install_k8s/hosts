@@ -1,7 +1,9 @@
 [k8s-master]
-
+34.69.47.113
 
 [k8s-workers]
+34.70.95.22
+35.192.221.38
 
 [k8s-workers:vars]
 K8S_MASTER_NODE_IP=
